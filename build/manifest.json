@@ -1,0 +1,16 @@
+{
+  "short_name": "Expanse",
+  "name": "Expanse Game",
+  "icons": [
+    {
+      "src": "./Expanse@2x.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#19323C",
+  "orientation": "landscape"
+}
